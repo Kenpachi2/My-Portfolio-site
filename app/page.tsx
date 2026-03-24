@@ -1,3 +1,5 @@
+'use client';
+
 import dynamic from 'next/dynamic';
 
 const PortfolioContent = dynamic(() => import('@/components/portfolio-content'), {
