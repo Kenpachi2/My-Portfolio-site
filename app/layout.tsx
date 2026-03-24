@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Ifeanyi Umeadi — AI Trainer & Data Specialist',
+  description: 'AI training specialist and frontend developer based in Nigeria. Expert in prompt engineering, data annotation, and response evaluation.',
   generator: 'v0.app',
   icons: {
     icon: [
