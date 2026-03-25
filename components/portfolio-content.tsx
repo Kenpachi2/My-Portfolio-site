@@ -155,30 +155,38 @@ export default function PortfolioContent() {
           <div className="exp-item">
             <div className="exp-meta">
               <div className="exp-tag">CURRENT</div>
-              <div className="exp-period">2024 — Present</div>
+              <div className="exp-period">2025 — 2026</div>
             </div>
             <div>
-              <div className="exp-title">AI Training Specialist</div>
-              <div className="exp-company">Labrum AI</div>
+              <div className="exp-title">AI Content Trainer & Model Evaluator</div>
+              <div className="exp-company">Outlier AI (Powered by Scale AI)</div>
               <ul className="exp-points">
-                <li>Evaluate and rank AI-generated responses across diverse domains</li>
-                <li>Design effective prompts for model evaluation and training</li>
-                <li>Maintain high quality standards with 97%+ accuracy</li>
+                <li>Model Fine-Tuning: Trained cutting-edge Large Language Models (LLMs) through RLHF (Reinforcement Learning from Human Feedback) by ranking and refining AI-generated responses for accuracy, safety, and tone.
+                </li>
+                <li>Prompt Engineering: Developed complex, real-world test prompts to stress-test AI reasoning and identify edge cases, such as logical fallacies or hallucinations.</li>
+                <li>Fact-Checking & Quality Assurance: Conducted rigorous research to verify the factuality of model outputs, ensuring high-quality benchmark data for supervised fine-tuning (SFT).
+                </li>
               </ul>
             </div>
           </div>
           <div className="exp-item">
             <div className="exp-meta">
               <div className="exp-tag">PREVIOUS</div>
-              <div className="exp-period">2023 — 2024</div>
+              <div className="exp-period">2025 — 2025</div>
             </div>
             <div>
-              <div className="exp-title">Data Annotation Specialist</div>
-              <div className="exp-company">Scale AI</div>
+              <div className="exp-title">AI Data Annotator & Search Quality Evaluator
+              </div>
+              <div className="exp-company">Appen</div>
               <ul className="exp-points">
-                <li>Annotated training datasets for machine learning projects</li>
-                <li>Ensured data quality and consistency across large datasets</li>
-                <li>Collaborated with team leads on quality improvements</li>
+                <li>Data Annotation: Labeled and categorized high-volume datasets (text, image, and audio) for machine learning training, consistently maintaining over 99% accuracy per project guidelines.
+                </li>
+                <li>Search Relevance: Evaluated web search results and advertisements for intent, relevance, and user experience, directly influencing the performance of major search engine algorithms.
+                </li>
+                <li>Natural Language Processing (NLP): Performed entity recognition and sentiment analysis on diverse text samples to improve the linguistic nuance of voice assistants and chatbots.
+                </li>
+                <li>Quality Control Collaboration: Identified and documented inconsistencies in annotation protocols, collaborating with QA teams to refine labeling frameworks and improve dataset reliability.
+                </li>
               </ul>
             </div>
           </div>
