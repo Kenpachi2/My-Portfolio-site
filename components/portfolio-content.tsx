@@ -79,7 +79,7 @@ export default function PortfolioContent() {
           <div className="stat-panel">
             <div className="stat-row">
               <span className="stat-label">Location</span>
-              <span className="stat-val">Nigeria</span>
+              <span className="stat-val">Abuja,Nigeria</span>
             </div>
             <div className="stat-row">
               <span className="stat-label">Role Focus</span>
