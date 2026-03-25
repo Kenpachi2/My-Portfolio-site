@@ -62,8 +62,8 @@ export default function PortfolioContent() {
           <div className="hero-tag">Available for AI Roles</div>
           <h1>
             Umeadi<br />
-            <span className="line2">Ifeanyi</span>
-            <span className="line3">AI Trainer & Data Specialist</span>
+            <span className="line2">Ifeanyichukwu</span>
+            <span className="line2">AI Trainer & Data Specialist</span>
           </h1>
           <p className="hero-desc">
             Detail-oriented professional skilled in AI response evaluation, prompt engineering,
@@ -262,7 +262,7 @@ export default function PortfolioContent() {
               <span className="contact-line-icon">✉️</span>
               ifeanyiumeadi201@gmail.com
             </a>
-            <a href="https://twitter.com" className="contact-line">
+            <a href="https://twitter.com/anyi_umeadi" className="contact-line">
               <span className="contact-line-icon">𝕏</span>
               @anyi_umeadi
             </a>
