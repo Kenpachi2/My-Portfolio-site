@@ -63,7 +63,7 @@ export default function PortfolioContent() {
           <h1>
             Umeadi<br />
             <span className="line2">Ifeanyichukwu</span>
-            <span className="line3">AI Trainer & Data Specialist</span>
+            <span className="line2">AI Trainer & Data Specialist</span>
           </h1>
           <p className="hero-desc">
             Detail-oriented professional skilled in AI response evaluation, prompt engineering,
