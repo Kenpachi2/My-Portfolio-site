@@ -61,13 +61,13 @@ export default function PortfolioContent() {
         <div className="hero-left">
           <div className="hero-tag">Available for AI Roles</div>
           <h1>
-            Umeadi<br/>
+            Umeadi<br />
             <span className="line2">Ifeanyi</span>
             <span className="line3">AI Trainer & Data Specialist</span>
           </h1>
           <p className="hero-desc">
-            Detail-oriented professional skilled in AI response evaluation, prompt engineering, 
-            and data annotation. Bridging structured analytical thinking with frontend 
+            Detail-oriented professional skilled in AI response evaluation, prompt engineering,
+            and data annotation. Bridging structured analytical thinking with frontend
             development to deliver precise, high-quality AI training outputs.
           </p>
           <div className="hero-ctas">
@@ -210,7 +210,7 @@ export default function PortfolioContent() {
           <div className="cert-card">
             <div className="cert-num">01</div>
             <div>
-              <div className="cert-name">ALX Advanced Training Program</div>
+              <div className="cert-name">ALX Advanced AI Training Program</div>
               <div className="cert-org">ALX Africa</div>
               <div className="cert-score">COMPLETED</div>
             </div>
@@ -228,7 +228,15 @@ export default function PortfolioContent() {
             <div>
               <div className="cert-name">Data Science & ML Fundamentals</div>
               <div className="cert-org">Coursera</div>
-              <div className="cert-score">IN PROGRESS</div>
+              <div className="cert-score">90% score</div>
+            </div>
+          </div>
+          <div className="cert-card">
+            <div className="cert-num">04</div>
+            <div>
+              <div className="cert-name">PROJECT MANAGEMENT</div>
+              <div className="cert-org">Project Management Institute</div>
+              <div className="cert-score">COMPLETED</div>
             </div>
           </div>
         </div>
@@ -244,25 +252,25 @@ export default function PortfolioContent() {
           <div>
             <a href="mailto:hello@ifeanyi.dev" className="contact-line">
               <span className="contact-line-icon">✉️</span>
-              hello@ifeanyi.dev
+              ifeanyiumeadi201@gmail.com
             </a>
             <a href="https://twitter.com" className="contact-line">
               <span className="contact-line-icon">𝕏</span>
-              @ifeanyi_u
+              @anyi_umeadi
             </a>
             <a href="https://linkedin.com" className="contact-line">
               <span className="contact-line-icon">🔗</span>
               /in/ifeanyi-umeadi
             </a>
-            <a href="https://github.com" className="contact-line">
+            <a href="https://github.com/Kenpachi2" className="contact-line">
               <span className="contact-line-icon">⚙️</span>
-              github.com/ifeanyi
+              github.com/Kenpachi2
             </a>
           </div>
           <div className="contact-right">
             <h3>Always Open to Opportunities</h3>
             <p>
-              I'm actively looking for roles that leverage my AI training and frontend development expertise. Whether you have a project in mind or just want to chat about AI, tech, or design—feel free to reach out.
+              I'm actively looking for roles that leverage my AI training, Project management and frontend development expertise. Whether you have a project in mind or just want to chat about AI, tech, or design—feel free to reach out.
             </p>
             <div className="availability">
               <span className="avail-dot"></span>
@@ -272,8 +280,8 @@ export default function PortfolioContent() {
               <span className="tech-badge highlight">AI Training</span>
               <span className="tech-badge highlight">React</span>
               <span className="tech-badge highlight">Next.js</span>
-              <span className="tech-badge">JavaScript</span>
-              <span className="tech-badge">Prompt Engineering</span>
+              <span className="tech-badge highlight">JavaScript</span>
+              <span className="tech-badge highlight">Prompt Engineering</span>
             </div>
           </div>
         </div>
